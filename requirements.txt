@@ -1,0 +1,12 @@
+  
+torch>=1.9.0
+torchtext>=0.10.0
+datasets>=2.0.0
+tokenizers>=0.13.0
+transformers>=4.20.0
+numpy>=1.21.0
+tqdm>=4.62.0
+tensorboard>=2.8.0
+
+# 可选: Flash Attention (需要CUDA环境)
+# flash-attn>=1.0.0; sys_platform == "linux"
