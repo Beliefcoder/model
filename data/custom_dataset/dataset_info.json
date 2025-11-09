@@ -1,0 +1,8 @@
+{
+  "name": "IWSLT2017 en-de (Improved Conversion)",
+  "source": "Local raw files",
+  "train_size": 49000,
+  "validation_size": 1000,
+  "test_size": 1209,
+  "description": "Improved conversion with better filtering and balancing"
+}
